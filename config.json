@@ -5,8 +5,8 @@
     "sellerFeeBasisPoints": 500,
     "gatekeeper": null,
     "solTreasuryAccount": null,
-    "splTokenAccount": "GjfAchheU4qX7SJwGqPt9jXwQ32RDJhrggE3vf9wQyei",
-    "splToken": "5BQjeXkqLFMecwAmQve8Y2XuyubPdNyQs67ANqyBsDvJ",
+    "splTokenAccount": "9jU3Xh6LBcWWNVCvK7a32QbYf1hknYeFF6wgkw3LMLGG",
+    "splToken": "8nzQnAiSn6FNMyeSmjvQBWh8Ntq5dQZeQGhfrVa2zLd9",
     "goLiveDate": "2022-07-24T00:00:00Z",
     "endSettings": null,
     "whitelistMintSettings": null,
@@ -17,7 +17,7 @@
     "isMutable": true,
     "creators": [
     {
-      "address":"",
+      "address": "8LBJFa9oLfocnA9q7eutk9ELN8pLBg1h8TKmqJa3kj5Q",
       "share": 100
     }
   ]
